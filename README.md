@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8B+Profilime+Ho%C5%9F+Geldiniz" alt="Welcome"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+World!;Profilime+Ho%C5%9F+Geldiniz!;I'm+G%C3%BClsena" alt="Typing SVG" />
 </p>
 
 
