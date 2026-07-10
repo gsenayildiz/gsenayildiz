@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Profilime%20Ho%C5%9F%20Geldiniz&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8B+Profilime+Ho%C5%9F+Geldiniz" alt="Welcome"/>
+</p>
 
 
 
