@@ -2,19 +2,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+World!;Profilime+Ho%C5%9F+Geldiniz!;I'm+G%C3%BClsena" alt="Typing SVG" />
-</p>
-
-
-
-
-
-
-
-
 Hello, I'm Gülsena YILDIZ 👋
 
 ### About Me
