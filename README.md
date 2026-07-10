@@ -3,6 +3,8 @@ Hello, I'm  Gülsena YILDIZ 👋
 
 About Me
 
+![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,nodejs,express,react,mongodb)
+
 - 🎓 Graduated in Fırat University.
 - 💭 I continue to take passionate steps forward by learning more about software.
 - 💼 I develop interactive user interfaces using HTML, CSS, BOOTSTRAP, SCSS, SASS, JAVASCRIPT,  REACT, REACT NATIVE  AND  BACKEND.
