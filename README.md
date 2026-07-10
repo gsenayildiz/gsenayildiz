@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Profilime+Ho%C5%9F+Geldiniz!;Selam%2C+ben+G%C3%BClsena!;Full+Stack+Developer)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="0">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</p>Ï
 
 
 
