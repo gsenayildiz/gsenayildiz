@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 </p>
+
+
+
 
 
 
@@ -25,6 +27,14 @@ Hello, I'm Gülsena YILDIZ 👋
 
 
 
+
+
+
+
+
+
+
 ### Tech Stack
+
 
 ![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,reactrouter,reactnative,nodejs,express,git,github,postman,vscode)
