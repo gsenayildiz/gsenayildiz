@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
-</p>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Profilime%20Ho%C5%9F%20Geldiniz&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20)
 
 
 
@@ -34,7 +32,15 @@ Hello, I'm Gülsena YILDIZ 👋
 
 
 
+
+
 ### Tech Stack
 
 
-![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,reactrouter,reactnative,nodejs,express,git,github,postman,vscode)
+
+
+
+
+
+
+![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nodejs,express,git,github,postman,vscode)
