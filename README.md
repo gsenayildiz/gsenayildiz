@@ -1,4 +1,21 @@
 ### Hi there 👋
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<p align="center">
+  <img src="https://gifs.anmolbaranwal.com/lets-code.gif" alt="Let's Code" width="700">
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 
@@ -15,6 +32,14 @@ Hello, I'm Gülsena YILDIZ 👋
 - 🤝 I can work both individually and as part of a team with high motivation.
 - 🤝🏻 I am open to job offers.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 
@@ -27,6 +52,14 @@ Hello, I'm Gülsena YILDIZ 👋
 
 
 ### Tech Stack
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
