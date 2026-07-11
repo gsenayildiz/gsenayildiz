@@ -57,4 +57,4 @@ Hello, I'm Gülsena YILDIZ 👋
 
 
 
-![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nodejs,express,git,github,postman,vscode)
+![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,reactrouter,reactnative,nodejs,express,mongodb,git,github,postman,vscode)
