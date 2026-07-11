@@ -6,16 +6,6 @@
 <br>
 
 
-<p align="center">
-  <img src="https://gifs.anmolbaranwal.com/lets-code.gif" alt="Let's Code" width="700">
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
@@ -52,7 +42,7 @@ Hello, I'm Gülsena YILDIZ 👋
 
 
 
-### Tech Stack
+## 🛠️ Technologies & Tools
 <br>
 <br>
 <br>
@@ -68,5 +58,6 @@ Hello, I'm Gülsena YILDIZ 👋
 
 
 
-
-![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nodejs,express,git,github,postman,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,reactnative,redux,nodejs,express,mongodb,git,github,vscode" />
+</p>
