@@ -48,9 +48,6 @@ Hello, I'm Gülsena YILDIZ 👋
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 
@@ -59,6 +56,5 @@ Hello, I'm Gülsena YILDIZ 👋
 
 
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,reactnative,nodejs,express,mongodb,git,github,vscode" />
-</p>
+
+![](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nodejs,express,git,github,postman,vscode)
