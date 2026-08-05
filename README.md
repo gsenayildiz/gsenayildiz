@@ -45,9 +45,7 @@ Hello, I'm Gülsena YILDIZ 👋
 ## 🛠️ Technologies & Tools
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 
